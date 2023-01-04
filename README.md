@@ -7,4 +7,7 @@ _**Desktop App**_
 _**Short Description :**_ Letting the user browse through the gallery for an image and afterwards choosing from a number of different filters to apply then finally saving said image.  
   
 ---  
-  
+_**DEMO**_  
+![](./demo/imgeditor.gif)  
+
+---  
